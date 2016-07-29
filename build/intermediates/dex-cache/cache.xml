@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2ace9fb230929b7009bb2e9053a5a1165f835e03.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ef85f9ce92192c40fa87c95eba950af71aed0b12.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ee6bb8a48e794ea0b9e8e1c0a08c7daeb7149176.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-01dadcf216692d3888e173c3f593b764fbed8dd5.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6d56279312f48b50918f88a915a36f339c1d6e7e.jar" />
+    </item>
+    <item
+        jar="/home/shani/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-3dd2b15c4e4185741946ecd842bd7616a58f3f12.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1298493c9e65ba51e82e4f209750054c866abd3b.jar" />
+    </item>
+    <item
+        jar="/home/shani/Desktop/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-b21427e59ef862ab229413b5ab40d6b615ba287b.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-7f21696097ac9f5b8965d0d09bc309353d98fad3.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-0e65f3e6eaa2b23b2a0ac18b100b9f648a0f2a40.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8143aa1658e5d3afa58df1203f781da100876d73.jar" />
+    </item>
+    <item
+        jar="/home/shani/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-bb70301c32699fc7b9c3d45246b21e55c0b9d817.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9eddef370aa842c06e9db807d7e4b14b13c9f9c1.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-596ecdc51367d938062d4aed528729ef52214dc2.jar" />
+    </item>
+    <item
+        jar="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/shani/Courses/Udacity/Android-Developer-Nanodegree/Assignments/MyProjects/P5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-01f6c242e69a0db0c92db91d26f4b80a1f6a3bd1.jar" />
+    </item>
+
+</items>
