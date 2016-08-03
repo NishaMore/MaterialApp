@@ -18,6 +18,7 @@ import android.text.format.DateUtils;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
@@ -42,11 +43,13 @@ public class ArticleListActivity extends ActionBarActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
+
         //set Title to toolbar
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
         CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
         if (collapsingToolbarLayout != null) {
+
             collapsingToolbarLayout.setTitle("XYZ Reader");
         }
 
@@ -54,7 +57,6 @@ public class ArticleListActivity extends ActionBarActivity implements
         mSwipeRefreshLayout.setColorSchemeResources(R.color.red,R.color.green,R.color.blue);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
-
         //Initialize loader
         getLoaderManager().initLoader(0, null, this);
 
@@ -134,13 +136,20 @@ public class ArticleListActivity extends ActionBarActivity implements
         public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             View view = getLayoutInflater().inflate(R.layout.list_item_article, parent, false);
             final ViewHolder vh = new ViewHolder(view);
-            view.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-                }
-            });
+
+                view.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+
+                        if(!mIsRefreshing) {
+                            startActivity(new Intent(Intent.ACTION_VIEW,
+                                    ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+                        }else {
+                            Toast.makeText(ArticleListActivity.this,"Loading...",Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                });
+
             return vh;
         }
 
